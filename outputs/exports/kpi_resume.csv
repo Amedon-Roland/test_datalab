@@ -1,0 +1,9 @@
+KPI,Categorie,Valeur,Statut,Tendance
+Délai Moyen de Traitement,Performance opérationnelle,22.72 jours,Rouge,stable
+Taux d'Utilisation de la Capacité,Performance opérationnelle,128.57 %,Vert,stable
+Ratio Population par Centre,Accessibilité / Couverture territoriale,106576 habitants/centre,Rouge,stable
+Taux de Couverture Communale,Accessibilité / Couverture territoriale,14.14 %,Rouge,stable
+Taux de Rejet des Demandes,Qualité de service,7.37 %,Orange,stable
+Temps d'Attente Moyen en Centre,Qualité de service,63.27 minutes,Rouge,stable
+Productivité par Agent,Efficience / Charge,17.72 demandes/agent/jour,Orange,stable
+Indice de Charge,Efficience / Charge,0.037 ratio,Vert,stable

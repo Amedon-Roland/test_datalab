@@ -1,0 +1,7 @@
+timestamp,operation,dataset,columns,operations,column,format,invalid_dates
+2026-01-20T09:59:05.015106,standardize_text,demandes,"['region', 'prefecture', 'commune', 'quartier', 'type_document', 'motif_demande', 'statut_demande']",['strip'],,,
+2026-01-20T09:59:05.018127,convert_date,demandes,,,date_demande,,0.0
+2026-01-20T09:59:05.026523,standardize_text,centres,"['nom_centre', 'type_centre', 'region', 'prefecture', 'commune', 'statut_centre']",['strip'],,,
+2026-01-20T09:59:05.027521,convert_date,centres,,,date_ouverture,,0.0
+2026-01-20T09:59:05.029901,convert_date,logs,,,date_operation,,0.0
+2026-01-20T09:59:05.034306,standardize_text,socioeco,"['region', 'prefecture', 'commune']",['strip'],,,
